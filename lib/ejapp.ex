@@ -1,0 +1,2 @@
+defmodule Ejapp do
+end
